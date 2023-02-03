@@ -1,4 +1,4 @@
-<img align="right" width=350px alt="Mylogo" src="https://user-images.githubusercontent.com/90289616/153733885-b2e40639-80fa-46d4-913c-ef9e62894b0b.png" />
+<img align="right" width=350px alt="Mylogo" src=".github/images/logo_alex.png" />
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
 <h3 align="left">A passionate self-taught Data/Business Intelligence Analyst</h3>
