@@ -23,7 +23,7 @@ Feel free to reach me on any of these:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alex-rodrigo-vieira/" target="blank"><img align="center" src=".github/images/logos/linkedin.png" alt="linkedin" height="40" width="40"></a>&emsp;
-<a href="mailto:rodrigo.mangueiras@gmail.com" target="_blank"><img align = "center" src="https://github.com/gkakimor/gkakimor/blob/main/gmail.png" alt="gmail" height = "40" width="40"></a>&emsp;
+<a href="mailto:rodrigo.mangueiras@gmail.com" target="_blank"><img align = "center" src=".github/images/logos/gmail.png" alt="gmail" height = "40" width="40"></a>&emsp;
 </p>
 
 <br>
