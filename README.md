@@ -36,7 +36,9 @@ I am well experienced working with these tools:
 <p align="center">  
 <a href="https://www.mysql.com/" target="_blank"> <img src=".github/images/tools/sql-server.png" alt="Microsoft SQL Server" width="120" height="120"/></a>&emsp;
 <a href="https://www.python.org" target="_blank"> <img src=".github/images/tools/power-bi.png" alt="Power BI" width="120" height="120"/></a>&emsp;
-<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/ssis-ssas-ssrs.jpeg" alt="SSIS SSAS SSRS" height="120"/></a>&emsp;
+<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/ssis-ssas-ssrs.png" alt="SSIS" height="120"/></a>&emsp;
+<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/azure-data-factory.jpg" alt="Azure Data Factory" width="120" height="120"/></a>&emsp;
+<a href="https://powerbi.microsoft.com/en-ca/downloads/" target="_blank"> <img src=".github/images/tools/data-factory.jpg" alt="powerbi" width="120" height="120"/></a>&emsp;
 </p>
 
 <br>
