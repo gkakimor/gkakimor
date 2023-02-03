@@ -50,6 +50,8 @@ I am well experienced working with these tools:
 <p align="center">  
 <a href="https://www.credly.com/badges/ac4122b8-36bd-4696-8070-7aeacf2da42e/public_url" target="_blank"> <img src=".github/images/azure-data-fundamentals.png" alt="azuredatafundamentals" width="120" height="120"/></a>&emsp;
 <a href="https://www.credly.com/badges/ca74f348-2636-4b79-ba3a-4cf3fbd1b386/public_url" target="_blank"> <img src=".github/images/azure-power-bi.png" alt="azurepowerbi" width="120" height="120"/></a>&emsp;
+<a href="https://www.hackerrank.com/certificates/6c166e95b59c" target="_blank"> <img src=".github/images/hackerrank-python.png" alt="hackerrank-python" width="120" height="120"/></a>&emsp;
+<a href="https://www.hackerrank.com/certificates/bab6e9949841" target="_blank"> <img src=".github/images/hackerrank-sqlserver.png" alt="hackerrank-sqlserver" width="120" height="120"/></a>&emsp;
 </p>
 
 
