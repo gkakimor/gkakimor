@@ -22,8 +22,8 @@
 Feel free to reach me on any of these:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alex-rodrigo-vieira/" target="blank"><img align="center" src=".github/images/logos/linkedin.png" alt="linkedin" height="40" width="40"></a>&emsp;
-<a href="mailto:rodrigo.mangueiras@gmail.com" target="_blank"><img align = "center" src=".github/images/logos/gmail.png" alt="gmail" height = "40" width="40"></a>&emsp;
+<a href="https://www.linkedin.com/in/alex-rodrigo-vieira/" target="blank"><img align="center" src=".github/images/logos/linkedin.png" alt="Linkedin" height="40" width="40"></a>&emsp;
+<a href="mailto:rodrigo.mangueiras@gmail.com" target="_blank"><img align = "center" src=".github/images/logos/gmail.png" alt="Gmail" height = "40" width="40"></a>&emsp;
 </p>
 
 <br>
@@ -34,11 +34,10 @@ I am well experienced working with these tools:
 
 
 <p align="center">  
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&emsp;
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&emsp;
-<a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/NazomU/NazomU/blob/main/tableau.png" alt="tableau" width="40" height="40"/></a>&emsp;
-<a href="https://powerbi.microsoft.com/en-ca/downloads/" target="_blank"> <img src=https://github.com/NazomU/NazomU/blob/main/PowerBI-Logo.png )
-" alt="powerbi" width="40" height="40"/></a>&emsp;
+<a href="https://www.mysql.com/" target="_blank"> <img src=".github/images/tools/sql-server.png" alt="Microsoft SQL Server" width="120" height="120"/></a>&emsp;
+<a href="https://www.python.org" target="_blank"> <img src=".github/images/tools/power-bi.png" alt="Power BI" width="120" height="120"/></a>&emsp;
+<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/ssis.jpeg" alt="SSIS" width="120" height="120"/></a>&emsp;
+<a href="https://powerbi.microsoft.com/en-ca/downloads/" target="_blank"> <img src=".github/images/tools/data-factory.png" alt="powerbi" width="120" height="120"/></a>&emsp;
 </p>
 
 <br>
