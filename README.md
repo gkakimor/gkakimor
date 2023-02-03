@@ -32,6 +32,34 @@ Feel free to reach me on any of these:
 
 I am well experienced working with these tools:
 
+
+<p align="center">  
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&emsp;
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&emsp;
+<a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/NazomU/NazomU/blob/main/tableau.png" alt="tableau" width="40" height="40"/></a>&emsp;
+<a href="https://powerbi.microsoft.com/en-ca/downloads/" target="_blank"> <img src=https://github.com/NazomU/NazomU/blob/main/PowerBI-Logo.png )
+" alt="powerbi" width="40" height="40"/></a>&emsp;
+</p>
+
+<br>
+
+<h2 align="center">Certifications:</h2>
+
+I am well experienced working with these tools:
+
+<p align="center">  
+<a href=".github/images/azure-data-fundamentals.png" target="_blank"> <img src="https://www.credly.com/badges/ac4122b8-36bd-4696-8070-7aeacf2da42e/public_url" alt="mysql" width="40" height="40"/></a>&emsp;
+<a href=".github/images/azure-power-bi.png" target="_blank"> <img src="https://www.credly.com/badges/ca74f348-2636-4b79-ba3a-4cf3fbd1b386/public_url" alt="python" width="40" height="40"/></a>&emsp;
+</p>
+
+
+<br>
+
+<h2 align="center">Badges:</h2>
+
+I am well experienced working with these tools:
+
+
 <p align="center">  
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&emsp;
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&emsp;
