@@ -23,8 +23,6 @@ Feel free to reach me on any of these:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alex-rodrigo-vieira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maazshakeel" height="40" width="40"></a>&emsp;
-<a href="https://stackoverflow.com/users/16744944/chinazom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15568160" height="40" width="40"></a>&emsp;
-<a href="https://instagram.com/naz_zeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marisab_oc" height="40" width="40"></a>&emsp;
 <a href="mailto:rodrigo.mangueiras@gmail.com" target="_blank"><img align = "center" src="https://github.com/gkakimor/gkakimor/blob/main/gmail.png" alt="Gmail Logo" height = "40" width="40"></a>&emsp;
 </p>
 
@@ -67,9 +65,6 @@ I am well experienced working with these tools:
   
 
 <!--
-**NazomU/NazomU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - :chart_with_downwards_trend:
 - 🔭 I’m currently working on .
