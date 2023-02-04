@@ -1,3 +1,7 @@
+<style>
+	table, tr, td {border: 0px;
+  border-radius: 10px;}
+</style>
 <img align="right" width=350px alt="Mylogo" src=".github/images/logos/logo_alex.png" />
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
@@ -33,13 +37,26 @@ Feel free to reach me on any of these:
 I am well experienced working with these tools:
 
 
-<p align="center">  
-<a href="https://www.mysql.com/" target="_blank"> <img src=".github/images/tools/sql-server.png" alt="Microsoft SQL Server" width="120" height="120"/></a>&emsp;
-<a href="https://www.python.org" target="_blank"> <img src=".github/images/tools/power-bi.png" alt="Power BI" width="120" height="120"/></a>&emsp;
-<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/sql-ssis-ssas-ssrs.png" alt="SSIS SSAS SSRS" height="120"/></a>&emsp;
-<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/azure-data-factory.jpg" alt="Azure Data Factory" width="120" height="120"/></a>&emsp;
-<a href="https://powerbi.microsoft.com/en-ca/downloads/" target="_blank"> <img src=".github/images/tools/data-factory.jpg" alt="powerbi" width="120" height="120"/></a>&emsp;
-</p>
+<table>
+	<tr>
+		<td><a href="https://www.mysql.com/" target="_blank"> <img src=".github/images/tools/sql-server.png" alt="Microsoft SQL Server" width="120" height="120"/></a>&emsp;</td>
+		<td><a href="https://www.python.org" target="_blank"> <img src=".github/images/tools/power-bi.png" alt="Power BI" width="120" height="120"/></a>&emsp;</td>
+		<td><a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/sql-ssis-ssas-ssrs.png" alt="SSIS SSAS SSRS" height="120"/></a>&emsp;</td>
+		<td><a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/azure-data-factory.jpg" alt="Azure Data Factory" width="120" height="120"/></a>&emsp;</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/python.png" alt="Python" width="120" height="120"/></a>&emsp;</td>
+		<td><a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/excel.png" alt="Microsoft Excel" width="120" height="120"/></a>&emsp;</td>
+		<td><a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/data-warehouse.png" alt="Data Warehouse" width="120" height="120"/></a>&emsp;</td>
+		<td><a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/visual-studio.png" alt="Visual Studio" width="120" height="120"/></a>&emsp;</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/git.png" alt="Git" width="120" height="120"/></a>&emsp;</td>
+		<td><a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/javascript.png" alt="Javascript" width="120" height="120"/></a>&emsp;</td>
+		<td><a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/csharp.png" alt="C#" width="120" height="120"/></a>&emsp;</td>
+		<td></td>
+	</tr>
+</table>
 
 <br>
 
