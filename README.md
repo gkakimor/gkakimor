@@ -22,8 +22,8 @@
 Feel free to reach me on any of these:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alex-rodrigo-vieira/" target="blank"><img align="center" src=".github/images/logos/linkedin.png" alt="Linkedin" height="40" width="40"></a>&emsp;
-<a href="mailto:rodrigo.mangueiras@gmail.com" target="_blank"><img align = "center" src=".github/images/logos/gmail.png" alt="Gmail" height = "40" width="40"></a>&emsp;
+<a href="https://www.linkedin.com/in/alex-rodrigo-vieira/" target="blank"><img align="center" src=".github/images/logos/linkedin.png" alt="Linkedin" height="70" width="70"></a>&emsp;
+<a href="mailto:rodrigo.mangueiras@gmail.com" target="_blank"><img align = "center" src=".github/images/logos/gmail.png" alt="Gmail" height = "70" width="70"></a>&emsp;
 </p>
 
 <br>
@@ -31,7 +31,6 @@ Feel free to reach me on any of these:
 <h2 align="center">Languages and Tools:</h2>
 
 I am well experienced working with these tools:
-
 
 </br>
 <p align="center">
