@@ -35,30 +35,10 @@ I am well experienced working with these tools:
 
 </br>
 <p align="center">
-	<a href="https://www.mysql.com/" target="_blank"> <img src=".github/images/tools/sql-server.png" alt="Microsoft SQL Server" width="120" height="120"/>
-	</a>&emsp;
-	<a href="https://www.python.org" target="_blank"> <img src=".github/images/tools/power-bi.png" alt="Power BI" width="120" height="120"/></a>&emsp;
-	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/sql-ssis-ssas-ssrs.png" alt="SSIS SSAS SSRS" height="120"/></a>&emsp;
-	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/azure-data-factory.jpg" alt="Azure Data Factory" width="120" height="120"/></a>&emsp;
-</p>
-<p align="center">
-SQL Server - Power BI - SISS
-</p>
-<br/>
-<p align="center">
-	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/python.png" alt="Python" width="120" height="120"/></a>&emsp;
-	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/excel.png" alt="Microsoft Excel" width="120" height="120"/></a>&emsp;
-	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/data-warehouse.png" alt="Data Warehouse" width="120" height="120"/></a>&emsp;
-	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/visual-studio.png" alt="Visual Studio" width="120" height="120"/></a>&emsp;
-</p>
-<br/>
-<p align="center">
-	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/git.png" alt="Git" width="120" height="120"/></a>&emsp;
-	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/javascript.png" alt="Javascript" width="120" height="120"/></a>&emsp;
-	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/csharp.png" alt="C#" width="120" height="120"/></a>&emsp;
+	<img src=".github/images/tools.png" alt="Languages & Tools" width="800"/>
 </p>
 
-<br>
+<br/>
 
 <h2 align="center">Certifications:</h2>
 
