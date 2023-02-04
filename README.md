@@ -22,8 +22,8 @@
 Feel free to reach me on any of these:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alex-rodrigo-vieira/" target="blank"><img align="center" src=".github/images/logos/linkedin.png" alt="Linkedin" height="40" width="40"></a>&emsp;
-<a href="mailto:rodrigo.mangueiras@gmail.com" target="_blank"><img align = "center" src=".github/images/logos/gmail.png" alt="Gmail" height = "40" width="40"></a>&emsp;
+<a href="https://www.linkedin.com/in/alex-rodrigo-vieira/" target="blank"><img align="center" src=".github/images/logos/linkedin.png" alt="Linkedin" height="70" width="70"></a>&emsp;
+<a href="mailto:rodrigo.mangueiras@gmail.com" target="_blank"><img align = "center" src=".github/images/logos/gmail.png" alt="Gmail" height = "70" width="70"></a>&emsp;
 </p>
 
 <br>
@@ -32,17 +32,19 @@ Feel free to reach me on any of these:
 
 I am well experienced working with these tools:
 
-
 </br>
 <p align="center">
 	<a href="https://www.mysql.com/" target="_blank"> <img src=".github/images/tools/sql-server.png" alt="Microsoft SQL Server" width="120" height="120"/>
-	</a>&emsp;
-	<a href="https://www.python.org" target="_blank"> <img src=".github/images/tools/power-bi.png" alt="Power BI" width="120" height="120"/></a>&emsp;
-	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/sql-ssis-ssas-ssrs.png" alt="SSIS SSAS SSRS" height="120"/></a>&emsp;
+	</a>&emsp;&emsp;
+	<a href="https://www.python.org" target="_blank"> <img src=".github/images/tools/power-bi.png" alt="Power BI" width="120" height="120"/></a>&emsp;&emsp;
+	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/sql-ssis-ssas-ssrs.png" alt="SSIS SSAS SSRS" height="120"/></a>&emsp;&emsp;
 	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/azure-data-factory.jpg" alt="Azure Data Factory" width="120" height="120"/></a>&emsp;
 </p>
 <p align="center">
-SQL Server - Power BI - SISS
+	Microsoft SQL Server (10+ Years)&emsp;
+	Power BI (5 Years)&emsp;
+	SISS (10+ years) / SSAS (4 Years) / SSRS (1 Year)&emsp;
+	Data Factory (1 Year)
 </p>
 <br/>
 <p align="center">
