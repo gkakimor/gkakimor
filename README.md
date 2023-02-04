@@ -35,10 +35,10 @@ I am well experienced working with these tools:
 </br>
 <p align="center">
 	<a href="https://www.mysql.com/" target="_blank"> <img src=".github/images/tools/sql-server.png" alt="Microsoft SQL Server" width="120" height="120"/>
-	</a>&emsp;&emsp;
-	<a href="https://www.python.org" target="_blank"> <img src=".github/images/tools/power-bi.png" alt="Power BI" width="120" height="120"/></a>&emsp;&emsp;
-	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/sql-ssis-ssas-ssrs.png" alt="SSIS SSAS SSRS" height="120"/></a>&emsp;&emsp;
-	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/azure-data-factory.jpg" alt="Azure Data Factory" width="120" height="120"/></a>&emsp;
+	</a>&emsp;&emsp;&emsp;&emsp;&emsp;
+	<a href="https://www.python.org" target="_blank"> <img src=".github/images/tools/power-bi.png" alt="Power BI" width="120" height="120"/></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/sql-ssis-ssas-ssrs.png" alt="SSIS SSAS SSRS" height="120"/></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/azure-data-factory.jpg" alt="Azure Data Factory" width="120" height="120"/></a>
 </p>
 <p align="center">
 	Microsoft SQL Server (10+ Years)&emsp;
