@@ -1,6 +1,3 @@
-<head>
-<link rel="stylesheet" type="text/css" href=".github/example.css" media=”screen” />
-</head>
 <img align="right" width=350px alt="Mylogo" src=".github/images/logos/logo_alex.png" />
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
@@ -39,7 +36,6 @@ I am well experienced working with these tools:
 </br>
 <p align="center">
 	<a href="https://www.mysql.com/" target="_blank"> <img src=".github/images/tools/sql-server.png" alt="Microsoft SQL Server" width="120" height="120"/>
-		<span>Teste</span>
 	</a>&emsp;
 	<a href="https://www.python.org" target="_blank"> <img src=".github/images/tools/power-bi.png" alt="Power BI" width="120" height="120"/></a>&emsp;
 	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/sql-ssis-ssas-ssrs.png" alt="SSIS SSAS SSRS" height="120"/></a>&emsp;
