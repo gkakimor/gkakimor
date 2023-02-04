@@ -1,7 +1,3 @@
-<style>
-	table, tr, td {border: 0px;
-  border-radius: 10px;}
-</style>
 <img align="right" width=350px alt="Mylogo" src=".github/images/logos/logo_alex.png" />
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
@@ -37,8 +33,8 @@ Feel free to reach me on any of these:
 I am well experienced working with these tools:
 
 
-<table>
-	<tr>
+<table border-style= "none">
+	<tr border-style= "none">
 		<td><a href="https://www.mysql.com/" target="_blank"> <img src=".github/images/tools/sql-server.png" alt="Microsoft SQL Server" width="120" height="120"/></a>&emsp;</td>
 		<td><a href="https://www.python.org" target="_blank"> <img src=".github/images/tools/power-bi.png" alt="Power BI" width="120" height="120"/></a>&emsp;</td>
 		<td><a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/sql-ssis-ssas-ssrs.png" alt="SSIS SSAS SSRS" height="120"/></a>&emsp;</td>
