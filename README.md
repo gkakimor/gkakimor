@@ -1,3 +1,6 @@
+<head>
+<link rel="stylesheet" type="text/css" href="example.css" media=”screen” />
+</head>
 <img align="right" width=350px alt="Mylogo" src=".github/images/logos/logo_alex.png" />
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
@@ -33,14 +36,17 @@ Feel free to reach me on any of these:
 I am well experienced working with these tools:
 
 
+</br>
 <p align="center">
-	<a href="https://www.mysql.com/" target="_blank"> <img src=".github/images/tools/sql-server.png" alt="Microsoft SQL Server" width="120" height="120"/></a>&emsp;
+	<a href="https://www.mysql.com/" target="_blank"> <img src=".github/images/tools/sql-server.png" alt="Microsoft SQL Server" width="120" height="120"/>
+		<span>Teste</span>
+	</a>&emsp;
 	<a href="https://www.python.org" target="_blank"> <img src=".github/images/tools/power-bi.png" alt="Power BI" width="120" height="120"/></a>&emsp;
 	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/sql-ssis-ssas-ssrs.png" alt="SSIS SSAS SSRS" height="120"/></a>&emsp;
 	<a href="https://www.tableau.com/" target="_blank"> <img src=".github/images/tools/azure-data-factory.jpg" alt="Azure Data Factory" width="120" height="120"/></a>&emsp;
 </p>
 <p align="center">
-asdsadad
+SQL Server - Power BI - SISS
 </p>
 <br/>
 <p align="center">
@@ -106,18 +112,3 @@ I am well experienced working with these tools:
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-  
-
-<!--
-
-- :chart_with_downwards_trend:
-- 🔭 I’m currently working on .
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
