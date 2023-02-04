@@ -36,7 +36,7 @@ Feel free to reach me on any of these:
 I am well experienced working with these tools:
 
 <p align="center">
-	<div align="center" class="myDiv">
+	<div align="center" display= "inline-block">
 		<div>
 			<a href="https://www.mysql.com/" target="_blank"> <img src=".github/images/tools/sql-server.png" alt="Microsoft SQL Server" width="120" height="120"/></a>&emsp;
 			<br/>
