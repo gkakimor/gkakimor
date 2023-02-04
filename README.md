@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" type="text/css" href="example.css" media=”screen” />
+<link rel="stylesheet" type="text/css" href=".github/example.css" media=”screen” />
 </head>
 <img align="right" width=350px alt="Mylogo" src=".github/images/logos/logo_alex.png" />
 <h1 align="center">Hi 👋, I'm Alex</h1>
