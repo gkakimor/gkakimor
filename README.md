@@ -28,16 +28,6 @@ Feel free to reach me on any of these:
 
 <br>
 
-<h2 align="center">See my work:</h2>
-
-Know more about my professional carrier and projects:
-
-<p align="center">
-<a href="https://gkakimor.github.io/" target="_blank"><img align = "center" src=".github/images/logos/portfolio.png" alt="Portfolio" height = "70" width="70"></a>&emsp;
-</p>
-
-<br>
-
 <h2 align="center">Languages and Tools:</h2>
 
 I am well experienced working with these tools:
